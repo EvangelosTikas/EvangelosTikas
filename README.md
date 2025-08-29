@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @EvangelosTikas
-- 👀 I’m interested in AI, Deep Learning, CPU hardware/software build
-- 🌱 I’m currently learning Python and TypeScript, C++
-- 💞️ I’m looking to collaborate on Generative AI and Computer Vision models
+- 👀 I’m interested in AI, Semantic Communications, CPU hardware/software verifcation&design.
+- 🌱 I’m currently learning Python franeworks for AI and data engineering and C++ concepts
+- 💞️ I’m looking to collaborate on Generative AI and Computer Vision, models, LLMs, Meta-Learning research
 - 📫 How to reach me vagtikas@gmail.com
 
 <!---
 EvangelosTikas/EvangelosTikas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link.
 --->
 
 
