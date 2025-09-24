@@ -18,7 +18,7 @@ You can click the Preview link.
   <br>
 </h1>
 
-<h4 align="center">A project base suitable for an MSc, engineer experienced on CPU verification/design and AI methodologies. <a href="https://www.linkedin.com/in/evangelos-tikas-a795a1172/" target="_blank">LinkedIn profile</a>.</h4>
+<h4 align="center">I value electronics and software. An engineer experienced on semiconductors verification/design and Artificial Intelligence. <a href="https://www.linkedin.com/in/evangelos-tikas-a795a1172/" target="_blank">LinkedIn profile</a>.</h4>
 
 
 <p align="center">
