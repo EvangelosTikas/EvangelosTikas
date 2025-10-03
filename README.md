@@ -46,7 +46,8 @@ You can click the Preview link.
 ## Projects 
 
 - [ToolGit](https://github.com/EvangelosTikas/ToolGit) : A fast and easy-to-use Git toolbox to guide you everywhere and always. [#9](https://github.com/EvangelosTikas/ToolGit/actions/runs/18224326299#:~:text=fix%20the%20lint.-,%239,-Re%2Drun%20all)
-- []
+- [MetaFlame](https://github.com/EvangelosTikas/meta-learning-flame) : All-around platform to build, test and deploy Meta-Learning models.
+Not just a tool but a versatile platform, acompanying developer experience from step 0 to completion. <br> ➜ Gather data, pack them, load the model and hit "train".
 
 
 ## Support
