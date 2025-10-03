@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @EvangelosTikas
+- Hello, I’m @EvangelosTikas
 - ➜ I’m interested in AI, Semantic Communications, CPU hardware/software verifcation&design.
 - ➜ I’m currently learning Python franeworks for AI and data engineering and C++ concepts
 - ✅ I’m looking to collaborate on Generative AI and Computer Vision, models, LLMs, Meta-Learning research
-- 📫 How to reach me vagtikas@gmail.com
+- 📫 How to reach me: [vagtikas@gmail.com]     [etikas@physics.auth.gr]
+
+
 
 <!---
 EvangelosTikas/EvangelosTikas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,13 +20,14 @@ You can click the Preview link.
   <br>
 </h1>
 
-<h4 align="center">I value electronics and software. An engineer experienced on semiconductors verification/design and Artificial Intelligence. <a href="https://www.linkedin.com/in/evangelos-tikas-a795a1172/" target="_blank">LinkedIn profile</a>.</h4>
+<h4 align="center">I value electronics and Deep Learning. 
+  An engineer experienced on semiconductors verification/design and Artificial Intelligence. <a href="https://www.linkedin.com/in/evangelos-tikas-a795a1172/" target="_blank">LinkedIn profile</a>.</h4>
 
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
+  <a href="#key-ascpects">Key Aspects</a> •
+  <a href="#support">Support</a> •
+  <a href="#projects">Projects</a> •
   <a href="#credits">Credits</a> •
   <a href="#related">Related</a> •
   <a href="#license">License</a>
@@ -32,12 +35,18 @@ You can click the Preview link.
 
 <h4 align="center">Graduated from:___<br><a href="https://www.physics.auth.gr/en/" target="_blank">School of Physics</a>.</h4>
 
-## Key Features
+## Key Aspects <a name="key-ascpects"></a>
 
-* LivePreview - Make changes, See changes
-  - Instantly see changes across repositories and actions such as pull requests.
-* AI code setup
-  - Emphasized on speed and optimization
+* Progressive - I pursue changes, hear changes and new concepts.
+  - Instantly act and adapt to new challenge, gathering formidable sollutions.
+* AI research
+  - Emphasized on speed and accuracy (for the Medical Sector)
+
+
+## Projects 
+
+- [ToolGit](https://github.com/EvangelosTikas/ToolGit) : A fast and easy-to-use Git toolbox to guide you everywhere and always. [#9](https://github.com/EvangelosTikas/ToolGit/actions/runs/18224326299#:~:text=fix%20the%20lint.-,%239,-Re%2Drun%20all)
+- []
 
 
 ## Support
