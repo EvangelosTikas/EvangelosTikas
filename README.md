@@ -1,20 +1,22 @@
-- Hello, I’m @EvangelosTikas
-- ➜ I’m interested in AI, Semantic Communications, CPU hardware/software verifcation&design.
-- ➜ I’m currently learning Python franeworks for AI and data engineering and C++ concepts
+- I’m @EvangelosTikas, a phycisist and an engineer 
+- ➜ I’m interested in resear AI, Semantic Communications, CPU hardware/software verifcation&design.
+- ➜ I’m currently working on Python franeworks for AI and data engineering and C++ concepts
 - ✅ I’m looking to collaborate on Generative AI and Computer Vision, models, LLMs, Meta-Learning research
 - 📫 How to reach me: [vagtikas@gmail.com]     [etikas@physics.auth.gr]
 
 
 
 <!---
-EvangelosTikas/EvangelosTikas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link.
+EvangelosTikas/EvangelosTikas is a ✨ special ✨ repository because its `README.md` (this file) appears on the main GitHub profile.
 --->
 
 
+
+![me](https://github.com/user-attachments/assets/fdd2dd21-25bb-4c15-b3b2-0fa744e73e6c)
+
 <h1 align="center">
   <br>
-  <a href="[http://www.amitmerchant.com/electron-markdownify](https://www.linkedin.com/in/evangelos-tikas-a795a1172/)"><img src="https://media.licdn.com/dms/image/v2/D5603AQFr4ZqLPnnOKg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1636449031991?e=1751500800&v=beta&t=qcRJqlsrEKG91kILo_8WDLbqCMEX5-yugiu-BnVJHOE" alt="Evangelos Tikas" width="200"></a>
+  
   <br>
   Evangelos Tikas
   <br>
@@ -33,7 +35,15 @@ You can click the Preview link.
   <a href="#license">License</a>
 </p>
 
-<h4 align="center">Graduated from:___<br><a href="https://www.physics.auth.gr/en/" target="_blank">School of Physics</a>.</h4>
+<h4 align="center">Graduated from:  <br><a href="https://www.physics.auth.gr/en/" target="_blank">School of Physics</a>.</h4>
+
+## Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evangelos-tikas-a795a1172/) 
+
+## Tech Knowledge:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+![VHDL](https://img.shields.io/badge/VHDL-005A87?style=for-the-badge&logo=vhdl&logoColor=white) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-DA0001?style=for-the-badge&logo=verilog&logoColor=white) ![UVM](https://img.shields.io/badge/UVM-FF6B35?style=for-the-badge&logo=verilog&logoColor=white) ![SVA](https://img.shields.io/badge/SVA_Assertions-654FF0?style=for-the-badge)
+![Formal_Verification](https://img.shields.io/badge/Formal_Verification-654FF0?style=flat-square) ![FPGA](https://img.shields.io/badge/FPGA-7C3AED?style=for-the-badge&logo=fpga&logoColor=white)
 
 ## Key Aspects <a name="key-ascpects"></a>
 
