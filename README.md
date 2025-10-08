@@ -27,12 +27,11 @@ EvangelosTikas/EvangelosTikas is a ✨ special ✨ repository because its `READM
 
 
 <p align="center">
+  <a href="#socials">Socials</a> •
+  <a href="#tech-knowledge">Tech Knowledge</a> •
   <a href="#key-ascpects">Key Aspects</a> •
-  <a href="#support">Support</a> •
   <a href="#projects">Projects</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
+  <a href="#you-may-also-like">You may also like</a> •
 </p>
 
 <h4 align="center">Graduated from:  <br><a href="https://www.physics.auth.gr/en/" target="_blank">School of Physics</a>.</h4>
@@ -47,10 +46,11 @@ EvangelosTikas/EvangelosTikas is a ✨ special ✨ repository because its `READM
 
 ## Key Aspects <a name="key-ascpects"></a>
 
-* Progressive - I pursue changes, hear changes and new concepts.
-  - Instantly act and adapt to new challenge, gathering formidable sollutions.
-* AI research
-  - Emphasized on speed and accuracy (for the Medical Sector)
+- Progressive - I pursue changes, hear changes and cultivate new approaches.
+  - Instantly act and adapt to new challenge, gathering targeted and effortless sollutions.
+- ![AI](https://img.shields.io/badge/AI-Artificial%20Intelligence-brightgreen)
+- DeepLearning research  
+  - Emphasized on performance and accuracy (for the Medical Sector).
 
 
 ## Projects 
@@ -60,10 +60,6 @@ EvangelosTikas/EvangelosTikas is a ✨ special ✨ repository because its `READM
 Not just a tool but a versatile platform, acompanying developer experience from step 0 to completion. <br> ➜ Gather data, pack them, load the model and hit "train".
 
 
-## Support
-
-TBD
-
 ## You may also like...
 
 - [Image Synthesis with GANs](https://ikee.lib.auth.gr/record/353829) - MSc thesis: "Image Synthesis with GANs for DL-empowered In-Vitro Fertilization Techniques", on Generative AI research with real Embryo Images
@@ -71,9 +67,6 @@ TBD
 NETWORKS](https://smart-embryo.com/pdf/human_blastocyst_image_generation.pdf) - Paper focused on  the use of various Generative AI
 (GAN) architectures to tackle the problem of limited data.
 
-## License
-
-MIT
 
 ---
 
